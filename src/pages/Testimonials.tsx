@@ -10,7 +10,7 @@ const testimonials = [
     name: 'Sarah Johnson',
     role: 'CEO, TechVentures',
     content: 'MotionWebForge transformed our business with their exceptional web development services. Their attention to detail and innovative approach exceeded our expectations. Highly recommended!',
-    rating: a5,
+    rating: 5,
     avatar: 'https://images.unsplash.com/photo-1494790108377-be9c29b29330?q=80&w=1374&auto=format&fit=crop',
     project: 'E-commerce Platform',
   },

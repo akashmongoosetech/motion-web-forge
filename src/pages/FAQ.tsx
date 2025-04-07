@@ -89,7 +89,7 @@ const FAQ = () => {
         },
         {
           question: 'What if I\'m not satisfied with the deliverables?',
-          answer: 'Client satisfaction is our top priority. If you\'re not satisfied with any aspect of our deliverables, we'll work closely with you to understand your concerns and make the necessary revisions until you're completely satisfied with the results.',
+          answer: 'Client satisfaction is our top priority. If you\'re not satisfied with any aspect of our deliverables, well work closely with you to understand your concerns and make the necessary revisions until you are completely satisfied with the results.',
         },
       ],
     },
